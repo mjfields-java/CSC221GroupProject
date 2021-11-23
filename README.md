@@ -6,4 +6,4 @@ __Project Description:__ Web Scraping project to gather and plot data of the dem
 
 __Webscraped URL:__ https://en.wikipedia.org/wiki/Demographics_of_the_United_States
 
-__Collaborator:__ Alexandra C. Craig (acfrady@my.waketech.edu)
+__Collaborator:__ Alexandra C. Craig (acfrady@my.waketech.edu) ACCEPTED
